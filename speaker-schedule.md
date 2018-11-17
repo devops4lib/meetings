@@ -5,7 +5,7 @@
 | Month    | Speaker  | Topic |
 |:---------|:---------|:------|
 | October  | Andrew   | -     |
-| November | Francis  | -     |
+| November | Francis (Facilitator) Drew Heles (Speaker)  | [Cucumber and Ansible](2018-11-29_meeting.md)     |
 | December | Daniel S | -     |
 
 ## 2019
