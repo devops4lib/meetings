@@ -12,8 +12,7 @@
 
 | Month     | Speaker | Topic |
 |:----------|:--------|:------|
-| January   |Francis (Facilitator) Erin (Speaker) |
-(Netdata)(2019-01-24_meeting.md)     |
+| January   |Francis (Facilitator) Erin (Speaker) | [Netdata](2019-01-24_meeting.md)
 | February  |         | -     |
 | March     |         | -     |
 | April     |         | -     |
