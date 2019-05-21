@@ -17,7 +17,7 @@
 | March     |         | -     |
 | April     |         | -     |
 | May       |         | -     |
-| June      |         | -     |
+| June      | Francis K (Facilitator) Andrew G (Speaker) | [Hashicorp Vault](2019-06-20_meeting.md)     |
 | July      |         | -     |
 | August    |         | -     |
 | September |         | -     |
